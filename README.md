@@ -5,7 +5,7 @@ How to install:
 
 ```
 1. Clone this repo
-2. Run composer install and npm run dev in your project directory
+2. Run composer install and npm install an npm run dev in your project directory
 3. Update .env file to connect with your database
 4. Run php artisan migrate
 6. Run php artisan serve
